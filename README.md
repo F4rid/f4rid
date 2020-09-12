@@ -1,10 +1,5 @@
 ### Hi there 👋 My name is Farid Mohammadi
 
-<!--
-**F4rid/f4rid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Web/iOS Development**
 - 🌱 I’m currently learning **Nodejs**
 - 👯 I’m looking to collaborate on **Open Source project to kill my boring**
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about **PHP, Node, Programming Languange**
 - 📫 How to reach me: [**My Twitter**](www.facebook.com/riomrerror404)
 - ⚡ Fun fact: **Grateful to make you happier**
--->
